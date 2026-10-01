@@ -1,0 +1,67 @@
+{
+    "айс ти": {
+        "price": 300,
+        "image": "images\\айс ти.jpg",
+        "category": "Сусындар"
+    },
+    "пирог с варением": {
+        "price": 350,
+        "image": "images\\пирог.jpg",
+        "category": "Тәттілер"
+    },
+    "пирожки": {
+        "price": 200,
+        "image": "images\\пирожки.jpg",
+        "category": "Тәттілер"
+    },
+    "чай": {
+        "price": 100,
+        "image": "images\\чай.jpg",
+        "category": "Сусындар"
+    },
+    "су": {
+        "price": 200,
+        "image": "images\\arzu_life_fitness_voda_bez_gaza_05l-370364346232e41cc62c41.22564996.jpg",
+        "category": "Сусындар"
+    },
+    "кофе": {
+        "price": 150,
+        "image": "images\\кофе.jpg",
+        "category": "Сусындар"
+    },
+    "Пигоди": {
+        "price": 350,
+        "image": "images\\100045247244b0.jpg",
+        "category": "Тәттілер"
+    },
+    "Самса": {
+        "price": 250,
+        "image": "images\\100062514331b0.jpg",
+        "category": "Тәттілер"
+    },
+    "Пирог с капустой": {
+        "price": 350,
+        "image": "images\\пирог с капустой.jpg",
+        "category": "Тәттілер"
+    },
+    "Манты": {
+        "price": 400,
+        "image": "images\\manty.jpg",
+        "category": "2-тағамдар"
+    },
+    "Палау": {
+        "price": 400,
+        "image": "images\\плов.jpg",
+        "category": "2-тағамдар"
+    },
+    "Борщ": {
+        "price": 630,
+        "image": "images\\istockphoto-605992468-612x612.jpg",
+        "category": "1-тағамдар"
+    },
+    "Мясо по-тайски": {
+        "price": 630,
+        "image": "images\\мяцо по тайскии.jpg",
+        "category": "2-тағамдар"
+    }
+}
